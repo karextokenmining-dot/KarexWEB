@@ -1,0 +1,17 @@
+{
+  "name": "karex-bot",
+  "version": "1.0.0",
+  "description": "Karex Token Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.15.0",
+    "mysql2": "^3.6.0",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
