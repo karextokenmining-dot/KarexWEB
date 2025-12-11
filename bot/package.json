@@ -1,5 +1,5 @@
 {
-  "name": "karex-bot",
+  "name": "karexmining_bot",
   "version": "1.0.0",
   "description": "Karex Token Telegram Bot",
   "main": "index.js",
